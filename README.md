@@ -13,3 +13,6 @@ Taken from https://github.com/Prince-Stolas/dots2
 ## polybar
 Taken from https://github.com/typecraft-dev/dotfiles
 
+## Rofi
+Taken from https://github.com/Prince-Stolas/dots2
+
